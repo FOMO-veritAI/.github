@@ -64,7 +64,7 @@ Os rótulos dos conjuntos próprios foram escritos por IA e conferidos por um an
 | Guiding Questions | [`fomo-docs/entregas/semana-1-engage`](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas/semana-1-engage) |
 | Organização, Scrum e papéis | [relatório Scrum](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas/semana-1-engage) · [equipe, abaixo](#equipe) |
 | Modelo de IA e relatório técnico | [`veritai`](https://github.com/FOMO-veritAI/veritai) (serviço e configuração dos modelos) · [notebook de avaliação](https://github.com/FOMO-veritAI/veritai-dados/tree/main/avaliacao) · [relatórios, notebook e modelo da semana 5](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas/semana-5-modelo) |
-| Descrição final do produto | esta página ([O produto](#o-produto)) · [apresentação final](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas/semana-6-apresentacao) |
+| Descrição final do produto | esta página ([O produto](#o-produto)) · [mapa navegável da arquitetura](https://fomo-veritai.github.io/fomo/arquitetura.html) · [apresentação final](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas/semana-6-apresentacao) |
 | Código e README | [`fomo`](https://github.com/FOMO-veritAI/fomo) e [`veritai`](https://github.com/FOMO-veritAI/veritai), cada um com o seu README |
 
 Todas as entregas semanais, com o que cada uma traz, estão em [`fomo-docs/entregas`](https://github.com/FOMO-veritAI/fomo-docs/tree/main/entregas).
@@ -80,6 +80,8 @@ Todas as entregas semanais, com o que cada uma traz, estão em [`fomo-docs/entre
 | [fomo-docs](https://github.com/FOMO-veritAI/fomo-docs) | Documentação, entregas semanais, capturas de tela e painel "VeritAI por dentro" |
 
 Para rodar localmente, siga o README do [`veritai`](https://github.com/FOMO-veritAI/veritai) (serviço na porta 8100) e depois o do [`fomo`](https://github.com/FOMO-veritAI/fomo) (API e frontend). O frontend também está publicado em <https://fomo-veritai.github.io/fomo/>. Sozinho, sem a API, ele avisa que a API está desligada.
+
+O [mapa navegável da arquitetura](https://fomo-veritai.github.io/fomo/arquitetura.html) mostra cada parte do sistema, o que passa entre elas, cinco fluxos guiados e as decisões de arquitetura.
 
 ## Equipe
 
